@@ -1,4 +1,4 @@
-"# Application-Web-Design" 
+"# Application-Web-Design"  
 
 # Markdown ejemplo
 
@@ -16,6 +16,7 @@
 ## ¿Qué es Markdown?
 Es un lenguaje de marcado ligero que permite crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible. Permite que los documenteos,
 correos, html y otros contenidos tengan formato que pueda ser transformado fácilmente a otros formatos. Se utiliza principalmente en los archivos README de GitHub.
+
 
 # Comandos utilizados en Git y opciones de etiquetado de Markdown
 
@@ -45,3 +46,4 @@ correos, html y otros contenidos tengan formato que pueda ser transformado fáci
 - **Cursiva:** Se rodea el texto con * o _.
 - **Código:** Se utiliza `.
 - **Bloques de código:** Se utilizan tres backticks (```) al inicio y al final.
+
