@@ -6,8 +6,8 @@
 
 - **Nombre:** Reynaldo Tamez Vicencio
 - **Matrícula:** AL03035762
-- **Grado:** Tu Grado
-- **Semestre:** Tu Semestre
+- **Grado:** Profesional
+- **Semestre:** 6
 
 ## Datos de la Asignatura
 - **Nombre de la Asignatura:** Diseño de aplicaciones web
